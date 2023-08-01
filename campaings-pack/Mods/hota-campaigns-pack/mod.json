@@ -1,0 +1,12 @@
+{
+	"author" : "avatar",
+	"contact" : "https://discord.gg/femaQDmS",
+	"description" : "Pack of customs HotA campaigns downloaded from internet.",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Other",
+	"name" : "HotA campaings pack",
+	"version" : "1.0.0",
+	"depends" : [ "hota" ],
+	"keepDisabled" : true
+}

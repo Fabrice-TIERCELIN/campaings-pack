@@ -1,0 +1,12 @@
+{
+	"author" : "avatar, przemo877",
+	"contact" : "https://discord.gg/femaQDmS",
+	"description" : "Heroes 2 Archibald and Roland campaigns converted to HotA campaigns.",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Other",
+	"name" : "Archibald and Roland campaign",
+	"version" : "1.0.0",
+	"depends" : [ "hota" ],
+	"keepDisabled" : true
+}
